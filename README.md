@@ -3,10 +3,6 @@
 
 The Project is developed using PYTHON.
 
-# Personal Voice Assistant
-
-![download](https://user-images.githubusercontent.com/63177918/125658776-b8f9cf55-5871-4980-b99f-d56701071214.jpg)
-
 The Voice Assistant project is developed using Python.
 
 Team members:
