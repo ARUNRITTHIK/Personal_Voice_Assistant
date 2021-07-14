@@ -1,4 +1,4 @@
-# Personal_Voice_Assistant
+# Personal_Voice_Assistant_using_PYTHON
 ![project background](https://user-images.githubusercontent.com/72666029/125659067-c453b337-8174-4d4a-a9f0-52a4b05cbdb0.jpg)
 
 The Voice Assistant Project is developed using PYTHON.
