@@ -1,17 +1,15 @@
 # Personal_Voice_Assistant
 ![project background](https://user-images.githubusercontent.com/72666029/125659067-c453b337-8174-4d4a-a9f0-52a4b05cbdb0.jpg)
 
-The Project is developed using PYTHON.
-
-The Voice Assistant project is developed using Python.
+The Voice Assistant Project is developed using PYTHON.
 
 Team members:
 
-Dharun.R
+Arun Ritthik.K.K
 
 Ananth.R
 
-Arun Ritthik.K.K
+Dharun.R
 
 Javahar.A
 
