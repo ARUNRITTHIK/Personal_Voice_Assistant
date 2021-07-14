@@ -5,13 +5,13 @@ The Voice Assistant Project is developed using PYTHON.
 
 Team members:
 
-Arun Ritthik.K.K
+ARUN RITTHIK.K.K
 
-Ananth.R
+ANANTH.R
 
-Dharun.R
+DHARUN.R
 
-Javahar.A
+JAVAHAR.A
 
 Project Description:
 
